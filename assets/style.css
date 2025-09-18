@@ -236,10 +236,10 @@ body {
   position: relative;
   display: flex;
   align-items: center;
-  background-image: url(/pic/bg.jpg);
+  background-image: url("../pic/bg.jpg");
   background-size: cover;
   background-position: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   text-align: center;
 }
 
